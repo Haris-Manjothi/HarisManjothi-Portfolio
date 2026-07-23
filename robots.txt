@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haris-manjothi.github.io/HarisManjothi-Portfolio/sitemap.xml
