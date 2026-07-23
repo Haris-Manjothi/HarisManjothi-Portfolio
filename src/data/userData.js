@@ -25,8 +25,8 @@ export const userData = {
         linkedin: 'https://www.linkedin.com/in/haris-manjothi-700302424/',
         github: 'https://github.com/Haris-Manjothi',
     },
-    resume: '/Haris-Manjothi-Resume.pdf',
-    profileImage: '/Profile Picture.png',
+    resume: './Haris-Manjothi-Resume.pdf',
+    profileImage: './Profile Picture.png',
     quickFacts: [
         'Junior Executive at NADRA Mega Center',
         'BS Information Technology Student',
