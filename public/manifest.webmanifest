@@ -8,8 +8,8 @@
   "theme_color": "#050505",
   "icons": [
     {
-      "src": "./HM Logo.png",
-      "sizes": "any",
+      "src": "./HM%20Logo.png",
+      "sizes": "148x123",
       "type": "image/png",
       "purpose": "any maskable"
     }
