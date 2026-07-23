@@ -1,0 +1,17 @@
+{
+  "name": "Haris Manjothi | Portfolio",
+  "short_name": "Haris Portfolio",
+  "description": "Personal portfolio for Haris Manjothi — Software Engineer, Frontend Developer, and JavaScript Developer based in Karachi, Pakistan.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "./HM Logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
